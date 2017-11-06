@@ -102,7 +102,7 @@ view: gsod1929 {
     sql: ${TABLE}.mo ;;
   }
 
-  dimension: wind_speed {
+  dimension: max_wind_speed {
     type: string
     sql: ${TABLE}.mxpsd ;;
   }
